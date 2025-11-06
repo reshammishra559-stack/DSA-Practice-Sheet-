@@ -1,1 +1,1 @@
-# DSA-Practice-Sheet-
+This Data Structures and Algorithms (DSA) Practice Sheet is designed to strengthen your understanding of core programming concepts using Python. It focuses on solving problems that build logical thinking, problem-solving skills, and understanding of how data is organized, stored, and manipulated efficiently.
